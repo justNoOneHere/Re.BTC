@@ -1,5 +1,7 @@
 # Re.BTC - Bitcoin Wallet Recovery Script
 
+![Npm package version](https://badgen.net/npm/v/express) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg) [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/justNoOneHere/btc-wallet-recovery) ![Generic badge](https://img.shields.io/badge/Tested-Working!-<COLOR>.svg)
+
 <pre align="center">
 ╦═╗┌─┐ ╔╗╔╦╗╔═╗       ╔╗ ┬┌┬┐┌─┐┌─┐┬┌┐┌  ╦ ╦┌─┐┬  ┬  ┌─┐┌┬┐  ╦═╗┌─┐┌─┐┌─┐┬  ┬┌─┐┬─┐┬ ┬  ╔═╗┌─┐┬─┐┬┌─┐┌┬┐
 ╠╦╝├┤  ╠╩╗║ ║    ───  ╠╩╗│ │ │  │ │││││  ║║║├─┤│  │  ├┤  │   ╠╦╝├┤ │  │ │└┐┌┘├┤ ├┬┘└┬┘  ╚═╗│  ├┬┘│├─┘ │ 
