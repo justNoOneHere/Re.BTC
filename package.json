@@ -1,0 +1,50 @@
+{
+  "name": "re.btc",
+  "version": "1.0.0",
+  "description": "A Bitcoin wallet recovery tool using brainwallet, private key, and mnemonic methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justNoOneHere/Re.BTC.git"
+  },
+  "keywords": [
+    "Bitcoin",
+    "Mnemonic",
+    "HD",
+    "Wallet",
+    "Address",
+    "Generation",
+    "Address",
+    "Validation",
+    "BIP39",
+    "Cryptography",
+    "Wallet",
+    "Recovery",
+    "Address",
+    "bruteforcing",
+    "Brainwallet",
+    "PrivateKey",
+    "Re.BTC"
+  ],
+  "author": "JustNoOneHere",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/justNoOneHere/Re.BTC/issues"
+  },
+  "homepage": "https://github.com/justNoOneHere/Re.BTC#readme",
+  "dependencies": {
+    "bignumber.js": "^9.1.1",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.1.0",
+    "bs58": "^5.0.0",
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.4",
+    "fs": "^0.0.1-security",
+    "hdkey": "^2.1.0",
+    "itertools": "^1.7.1",
+    "minimist": "^1.2.7"
+  }
+}
